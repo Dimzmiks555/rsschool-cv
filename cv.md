@@ -38,7 +38,7 @@ _I also continue improve my skill more._
 ## Education
 
 * Rostov-on-Don colladge of network and IT.
-*	Lection about algorithms and data structeres from company "Yandex"
+*	Lection about algorithms and data structures from company "Yandex"
 *	Lection about advantages of design system from company "Yandex"
 *	Task solution on platforms Yandex.Contest,  CodeWars
 *	Book "Groke Algorithms"
