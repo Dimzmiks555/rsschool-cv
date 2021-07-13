@@ -23,7 +23,7 @@
 
 _I also continue improve my skill more._
 
-## Code Examples
+## Code Examples and Work experience
 
 * http://doverie-liski.ru
 * Сайт строительной компании
@@ -32,7 +32,6 @@ _I also continue improve my skill more._
 * http://github.com/dimzmiks555/hotel
 * http://github.com/dimzmiks555/tender
 
-## Work experience. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.
 ## Education
 
 * Rostov-on-Don colledge of network and IT.
