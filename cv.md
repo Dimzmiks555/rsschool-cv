@@ -21,7 +21,7 @@
 *	MongoDB
 *	methodology BEM 
 
-**I also continue improve my skill more.**
+_I also continue improve my skill more._
 
 ## Code Examples
 
