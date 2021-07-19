@@ -6,7 +6,8 @@
 * E-mail: anodaday@yandex.ru
 ## Information
 
-Мои основные приоритеты углубиться в программирование и стать специалистом в данной сфере. Я с подросткового возраста стремлюсь почти все свое свободное время отдавать изучению компьютеров. I like repair computers, create websites, programm, decide logic tasks and etc.. My table books about information technology help me improve my skills in programming and learning ПО. Learning IT – it's my future профессия and hobby. I want to help decide unique tasks for modernisation and automation bussiness processes. I like decide hard and non-standard tasks. I accept them as a challenge. Я – целеустремленный человек. When i take a tasks – моя цель выполнить ее качественно, на результат и превзойти ожидания клиента! Я требователен к себе и внимателен к деталям. Я всегда стремлюсь уловить суть задачи и проблемы, чтобы наиболее рационально и оптимально решить задачу. Учусь быстро, стремлюсь анализировать и опираться на опыт лидирующих мировых информационных компаний. Хочу быть разносторонне развитым с сфере разработки программ. Я очень люблю изучать информационные технологии и все, что с ними связано. I try know computers «inside», from сборки and fixing to create applications. Hunger for learning new things - is one of my strong sides. Я могу часами и днями изучать лекции и материалы по программированию, стараюсь развивать свой кругозор. Буду рад новым вызовам!
+My main priorities are to delve into programming and become a specialist in this field. Since I was a teenager, I have been striving to devote almost all my free time to studying computers. I like repair computers, create websites, programm, decide logic tasks and etc.. My table books about information technology help me improve my skills in programming and learning Software. Learning IT – it's my future профессия and hobby. I want to help decide unique tasks for modernisation and automation bussiness processes. I like decide hard and non-standard tasks. I accept them as a challenge. I am a purposeful person. When i take a tasks – my goal is to perform it efficiently, to achieve results and exceed the client's expectations! I am demanding of myself and attentive to details. I always strive to capture the essence of the problem and the problem in order to solve the problem in the most rational and optimal way. I am learning fast, I strive to analyze and rely on the experience of the world's leading information companies. I want to be versatile in the field of software development. I really like to study information technologies and everything related to them. I try know computers «inside», from construct and fixing to create applications. Hunger for learning new things - is one of my strong sides. I can spend hours and days studying lectures and materials on programming, I try to develop my horizons. I will be glad to meet new challenges!
+
 
 ## My skills
 
@@ -45,12 +46,5 @@ _I also continue improve my skill more._
 *	Courses on Youtube from Glo Academy (HTML, CSS, Wordpress, jQuery)
 
 
-## English language (уровень английского языка, если была языковая практика, расскажите о ней)
-
-### найти сайты свои и проекты и всё и все проекты и все проекты даже не значимые и весь компьютер перерыть показать все стороны и навыки компания серьезная будем отправлять в другие компаниии
-
-Накинуть верстку сайта по бронированию. (анимация, вращение и тд)
- 
- Разнообразие навыков и технологих на существующих проектах накинуть
- 
-доп обучение 3 пункта
+## English language 
+I am learning English with the help of songs and a Google translator
